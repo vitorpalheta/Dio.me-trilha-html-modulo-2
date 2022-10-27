@@ -1,5 +1,7 @@
 # Trilha HTML - Dio.me
 
+![preview](./github/preview.png)
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Desafio efetuado  com o objetivo de criar um site "quase" completo, com tudo o que foi abordado no módulo.
